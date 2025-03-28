@@ -1,0 +1,6 @@
+def login(usernameorpassword)
+#simple usernameorpassword
+if username='admin'password="password123"
+return login sucessfully
+else
+return invalid cerenditals
